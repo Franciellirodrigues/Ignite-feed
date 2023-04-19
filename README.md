@@ -1,6 +1,6 @@
 # Ignite Feed
 
-<img src="/https://ik.imagekit.io/atnyozbx9v/Capturarr_b1AjEpWVI.PNG?updatedAt=1681912520950" alt="wallpaper do projeto ignite feed" />
+<img src="https://ik.imagekit.io/atnyozbx9v/Capturarr_b1AjEpWVI.PNG?updatedAt=1681912520950&tr=w-1200%2Ch-675%2Cfo-auto" alt="wallpaper do projeto ignite feed" />
 
 Ignite feed é um projeto simples que simula o feed das redes sociais,<br> com funcionalidades de comentários, likes e apagar comentário.
 
