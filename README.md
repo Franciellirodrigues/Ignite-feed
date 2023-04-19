@@ -39,3 +39,7 @@ Ignite feed é um projeto simples que simula o feed das redes sociais,<br> com f
   <li>Phosphor-react</li><br>
 </ul>
 
+<br><br><br>
+<p align="center">
+Desenvolvido com 💜 por Francielli Rodrigues.
+</p>
