@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"> Ignite Feed </a>
+    <a> Ignite Feed </a>
 </h1>
 
 <img src="https://ik.imagekit.io/atnyozbx9v/Capturarr_b1AjEpWVI.PNG?updatedAt=1681912520950&tr=w-1200%2Ch-675%2Cfo-auto" alt="wallpaper do projeto ignite feed" />
