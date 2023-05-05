@@ -10,9 +10,9 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://images.unsplash.com/photo-1568822617270-2c1579f8dfe2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=50',
-      name: 'Francielli Rodrigues',
-      role: 'Web developer'
+      avatarUrl: 'https://github.com/maykbrito.png',
+      name: 'Mayke Brito',
+      role: 'Educator @Rocketseat'
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋🏻', },
@@ -24,7 +24,7 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/diego3g/diego3g',
+      avatarUrl: 'https://github.com/diego3g.png',
       name: 'Diego Fernandes',
       role: 'CTO @rocketseat'
     },
